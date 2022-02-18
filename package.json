@@ -1,5 +1,12 @@
 {
   "name": "arkademy_shop",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bulma": "^0.9.3"
+  },
+  "version": "yarn add bulma",
+  "main": "index.js",
+  "repository": "git@github.com:lukaszzarski/arkademy_shop.git",
+  "author": "lukaszzarski",
+  "license": "MIT"
 }
